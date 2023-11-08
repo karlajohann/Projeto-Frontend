@@ -1,0 +1,14 @@
+.newproject_container {
+    width: 450px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.newproject_container h1 {
+    text-align: justify;
+    margin-bottom: 5px;
+}
+
+.newproject_container p {
+    color: #7b7b7b;
+}

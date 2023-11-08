@@ -1,8 +1,8 @@
 .navbar {
     display: flex;
     justify-content: space-between;
-    background-color: #222;
-    padding: 1em;
+    background-color: #4d4b47;
+    padding: 10px;
 }
 
 .list {
@@ -11,3 +11,20 @@
     align-items: center;
     
 }
+
+.item {
+    font-family: 'Roboto', sans-serif;
+    margin-right: 5px;
+    font-size: large;
+    padding: 10px;
+}
+
+.item a {
+    color: #e2e2e2;
+    text-decoration: none;
+}
+
+.item a:hover {
+    color: #00FFFC;
+}
+
